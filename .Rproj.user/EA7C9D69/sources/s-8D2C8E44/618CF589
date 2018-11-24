@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1543033487816.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1508747335",
+    "id" : "618CF589",
+    "lastKnownWriteTime" : 1543033557,
+    "last_content_update" : 1543033557825,
+    "path" : "~/MyPackages/CommunityTrend/README.Rd",
+    "project_path" : "README.Rd",
+    "properties" : {
+        "cursorPosition" : "30,6",
+        "scrollLine" : "13"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}
