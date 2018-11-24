@@ -1,19 +1,19 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1543032139660.000,
+    "created" : 1543035373588.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2153755443",
-    "id" : "DAD63C1D",
-    "lastKnownWriteTime" : 1543035023,
-    "last_content_update" : 1543035023834,
+    "hash" : "2496151280",
+    "id" : "E6C2691",
+    "lastKnownWriteTime" : 1543035383,
+    "last_content_update" : 1543035383500,
     "path" : "~/MyPackages/CommunityTrend/R/trend.R",
     "project_path" : "R/trend.R",
     "properties" : {
-        "cursorPosition" : "36,20",
-        "scrollLine" : "31"
+        "cursorPosition" : "37,21",
+        "scrollLine" : "26"
     },
     "relative_order" : 3,
     "source_on_save" : false,

@@ -2,8 +2,11 @@
 
 library(dplyr)
 library(devtools)
-install_github('MaxBigdata/CommunityTrend')
 
+detach("package:CommunityTrend")
+remove.packages("CommunityTrend")
+
+install_github('MaxBigdata/CommunityTrend')
 
 library(CommunityTrend)
 
