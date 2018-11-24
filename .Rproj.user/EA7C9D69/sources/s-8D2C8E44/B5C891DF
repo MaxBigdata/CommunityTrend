@@ -5,18 +5,18 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3113991173",
+    "hash" : "3480405906",
     "id" : "B5C891DF",
-    "lastKnownWriteTime" : 1543046003,
-    "last_content_update" : 1543046003769,
+    "lastKnownWriteTime" : 1543048778,
+    "last_content_update" : 1543048778597,
     "path" : "~/MyPackages/CommunityTrend/R/trend.R",
     "project_path" : "R/trend.R",
     "properties" : {
-        "cursorPosition" : "20,3",
-        "scrollLine" : "6"
+        "cursorPosition" : "31,38",
+        "scrollLine" : "21"
     },
     "relative_order" : 3,
-    "source_on_save" : false,
+    "source_on_save" : true,
     "source_window" : "",
     "type" : "r_source"
 }

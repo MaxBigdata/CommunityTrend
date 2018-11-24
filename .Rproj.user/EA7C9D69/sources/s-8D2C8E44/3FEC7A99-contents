@@ -2,6 +2,7 @@
 
 library(dplyr)
 library(devtools)
+library(nycflights13)
 
 detach("package:CommunityTrend")
 remove.packages("CommunityTrend")
@@ -20,6 +21,7 @@ remove.packages(c('CommunityTrend'),lib=file.path('/Library/Frameworks/R.framewo
 update.packages("CommunityTrend")
 
 
+airports
 
 
 
