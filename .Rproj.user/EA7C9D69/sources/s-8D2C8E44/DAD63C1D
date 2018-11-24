@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1543032139660.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "29727473",
+    "id" : "DAD63C1D",
+    "lastKnownWriteTime" : 1543031113,
+    "last_content_update" : 1543031113,
+    "path" : "~/MyPackages/CommunityTrend/R/trend.R",
+    "project_path" : "R/trend.R",
+    "properties" : {
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
