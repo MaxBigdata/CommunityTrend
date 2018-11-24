@@ -29,7 +29,9 @@ trend <- function(community_name_x) {
   #
   # data1=head(DBI::dbListTables(fcast), 10)
 
-  community_attributes<-read_csv("data/community_attributes.csv")
+  fileRoute<-system.file("extdata","community_attributes.csv",package = "CommunityTrend")
+
+  community_attributes<-read_csv(fileRoute)
 
   the_attributes<-community_attributes%>%
     filter(community_name == community_name_x)
