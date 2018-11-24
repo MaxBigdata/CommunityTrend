@@ -1,0 +1,10 @@
+#练习
+
+library(dplyr)
+library(devtools)
+install_github('MaxBigdata/CommunityTrend')
+
+
+library(CommunityTrend)
+
+trend("新龙城")

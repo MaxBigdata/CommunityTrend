@@ -13,7 +13,7 @@
 #   Check Package:             'Cmd + Shift + E'
 #   Test Package:              'Cmd + Shift + T'
 
-trend <- function(community_name_x) {
+trend <- function(community_name_x)) {
   library(dplyr)
 
   print("Hello, friend ,I am max!")
@@ -35,7 +35,7 @@ trend <- function(community_name_x) {
 
   print('-------------------------------------')
   print('过去一个月内自如：')
-  print(paste0("所在商圈",the_attributes$business_district))
+  print(paste0("所在商圈",business_district))
 
   print(paste0("当地商圈合租单间销量：",the_attributes$community_other_num))
   print(paste0("社区合租单间均价：",the_attributes$community_average_price))
