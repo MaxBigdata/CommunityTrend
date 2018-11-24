@@ -15,9 +15,10 @@
 
 trend <- function(community_name_x) {
   library(dplyr)
-
+  library(readr)
   print("Hello, friend ,I am max!")
 
+  #community_name_x="新龙城"
   # consul <- new.env()
   # consul$host = Sys.getenv("consul.host")
   # consul$port = Sys.getenv("consul.port")
@@ -28,7 +29,7 @@ trend <- function(community_name_x) {
   #
   # data1=head(DBI::dbListTables(fcast), 10)
 
-  community_attributes<-read.table("R/community_attributes.dat")
+  community_attributes<-read_csv("R/community_attributes.csv")
 
   the_attributes<-community_attributes%>%
     filter(community_name == community_name_x)

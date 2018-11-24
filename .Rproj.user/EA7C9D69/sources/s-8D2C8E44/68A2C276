@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1770027818",
+    "hash" : "1848462751",
     "id" : "68A2C276",
-    "lastKnownWriteTime" : 1543045161,
-    "last_content_update" : 1543045161369,
+    "lastKnownWriteTime" : 1543045834,
+    "last_content_update" : 1543045834976,
     "path" : "~/MyPackages/CommunityTrend/R/trend.R",
     "project_path" : "R/trend.R",
     "properties" : {
-        "cursorPosition" : "39,19",
-        "scrollLine" : "32"
+        "cursorPosition" : "20,3",
+        "scrollLine" : "13"
     },
     "relative_order" : 3,
     "source_on_save" : false,
