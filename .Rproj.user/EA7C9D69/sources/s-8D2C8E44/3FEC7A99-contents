@@ -18,3 +18,8 @@ remove.packages(c('CommunityTrend'),lib=file.path('/Library/Frameworks/R.framewo
 
 
 update.packages("CommunityTrend")
+
+
+
+
+

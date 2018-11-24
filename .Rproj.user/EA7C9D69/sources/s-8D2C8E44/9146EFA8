@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1543044149479.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9146EFA8",
+    "lastKnownWriteTime" : 1543044483,
+    "last_content_update" : 1543044483639,
+    "path" : "~/MyPackages/commmunity2/R/trend.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "29,0",
+        "scrollLine" : "22"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
