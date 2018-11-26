@@ -43,7 +43,7 @@ trend <- function(community_name_x) {
   the_attributes2<-community_hit_attributes%>%
     filter(community_name == community_name_x)
 
-  the_attributes3<-ommunity_up_and_transaction_attributes%>%
+  the_attributes3<-community_up_and_transaction_attributes%>%
     filter(community_name == community_name_x)
 
   print('-------------------------------------')
