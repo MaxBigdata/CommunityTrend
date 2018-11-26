@@ -13,9 +13,10 @@ R Package
 
 ## INSTALL
 
+#####貌似devtools下载gitlab蛋壳包不太好用，问题还未解决
 ```{r}
 library(devtools)
-install_gitlab('MaxBigdata/CommunityTrend')
+install_gitlab('Max/CommunityTrend.git')
 ```
 
 ## DEMO
