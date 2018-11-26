@@ -1,9 +1,9 @@
-Prictice, R Package for training
+了解小区趋势的包：CommunityTrend
 =======================
 
-New Package
+web:
 
-+ https://github.com/MaxBigdata/Practice
++ https://github.com/MaxBigdata/CommunityTrend
 
 
 ##
@@ -13,10 +13,9 @@ R Package
 
 ## INSTALL
 
-#####貌似devtools下载gitlab蛋壳包不太好用，问题还未解决
 ```{r}
 library(devtools)
-install_gitlab('Max/CommunityTrend.git')
+install_github('Max/CommunityTrend')
 ```
 
 ## DEMO
